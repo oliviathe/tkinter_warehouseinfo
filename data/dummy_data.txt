@@ -1,0 +1,53 @@
+[
+	{
+		"1": {
+			"itemname": "Tissue",
+			"itemmerk": "Paseo",
+			"stok": "322", "supplier": "Kazoo Kid",
+			"lastchanged": "2021-06-05 11:49:21"
+		}
+	},
+	{
+		"2": {
+			"itemname": "Coklat",
+			"itemmerk": "Silver Queen",
+			"stok": "34", "supplier": "John Lee",
+			"lastchanged": "2021-06-05 11:49:47"
+		}
+	},
+	{
+		"3": {
+			"itemname": "Coffin",
+			"itemmerk": "Supreme",
+			"stok": "68", "supplier": "Hu Tomat",
+			"lastchanged": "2021-06-05 11:50:43"
+		}
+	},
+	{
+		"4": {
+			"itemname": "Tortilla",
+			"itemmerk": "Tortellini",
+			"stok": "134",
+			"supplier": "Chil Day",
+			"lastchanged": "2021-06-05 11:51:16"
+		}
+	}, 
+	{
+		"5": {
+			"itemname": "MSG",
+			"itemmerk": "SaSa", 
+			"stok": "42", 
+			"supplier": "Unkel Rojer",
+			"lastchanged": "2021-06-05 11:51:35"
+		}
+	}, 
+	{
+		"6": {
+			"itemname": "Minyak Kayu Putih", 
+			"itemmerk": "Cap Oz", 
+			"stok": "552", 
+			"supplier": "Faisal", 
+			"lastchanged": "2021-06-05 15:24:00"
+		}
+	}
+]
